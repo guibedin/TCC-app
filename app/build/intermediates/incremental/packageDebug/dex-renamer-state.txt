@@ -1,0 +1,7 @@
+#Thu May 04 18:42:21 BRT 2017
+base.0=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_00c4a5591e4e99477db2f7bb27312c28423a845b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_49c0634349e897c3f2fc11c59e0926cbfc146f42/classes.dex
+base.1=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_49c0634349e897c3f2fc11c59e0926cbfc146f42
+file.0=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_00c4a5591e4e99477db2f7bb27312c28423a845b/classes.dex

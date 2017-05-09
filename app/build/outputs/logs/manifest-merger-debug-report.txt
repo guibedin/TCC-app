@@ -1,0 +1,66 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:7:5-20:19
+MERGED from [com.android.support:design:23.3.0] /home/guilherme/.android/build-cache/f335f74c99f0caa07e37274faf60b9ed3d3380b9/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] /home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /home/guilherme/.android/build-cache/4d51aff347654e329025df6f83f4c65cdedf46dc/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/guilherme/.android/build-cache/92934c6ff2839fd24f3440235bb9c1c693a24592/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /home/guilherme/.android/build-cache/74244dea0f6123b6e0fea00d38bb410a56d96b9b/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.tcc.guilhermebedin.tcc.MainActivity
+ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.3.0] /home/guilherme/.android/build-cache/f335f74c99f0caa07e37274faf60b9ed3d3380b9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] /home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /home/guilherme/.android/build-cache/4d51aff347654e329025df6f83f4c65cdedf46dc/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/guilherme/.android/build-cache/92934c6ff2839fd24f3440235bb9c1c693a24592/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /home/guilherme/.android/build-cache/f5aaf6bf6fa0e2215452b77ae958a861bd7d16f6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /home/guilherme/.android/build-cache/74244dea0f6123b6e0fea00d38bb410a56d96b9b/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] /home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/src/main/AndroidManifest.xml

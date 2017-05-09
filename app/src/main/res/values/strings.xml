@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TCC</string>
+    <string name="title_activity_consumir_json">ConsumirJsonActivity</string>
+</resources>

@@ -1,0 +1,25 @@
+#Wed May 03 20:48:23 BRT 2017
+renamed.7=classes6.dex
+renamed.6=classes5.dex
+renamed.5=classes8.dex
+renamed.4=classes2.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes7.dex
+renamed.0=classes.dex
+base.7=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68093911b65cf35e4c1ee4dbac65fe40e8946ac2
+base.6=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_391331348cf6b58906aa5b6eec841bbe77e10297
+base.5=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_d21d429b7800f2761c28414a5a86a935e92bf1d0
+base.4=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_368ff50030ea8e1df876ab4a797af91a214afcb4
+base.3=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bbe68680fb89c348c177dce95ca84be7ba7b9d8
+base.2=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3f9b44dc892c30bce41b5f32c084e2098e9356c
+base.1=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b45430ff07c25b9a6b1a96c3a082a9b6a9446cbe
+base.0=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3ecbcafa3772afef561ac5100787fc12a0fc068
+file.7=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68093911b65cf35e4c1ee4dbac65fe40e8946ac2/classes.dex
+file.6=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_391331348cf6b58906aa5b6eec841bbe77e10297/classes.dex
+file.5=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_d21d429b7800f2761c28414a5a86a935e92bf1d0/classes.dex
+file.4=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_368ff50030ea8e1df876ab4a797af91a214afcb4/classes.dex
+file.3=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bbe68680fb89c348c177dce95ca84be7ba7b9d8/classes.dex
+file.2=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3f9b44dc892c30bce41b5f32c084e2098e9356c/classes.dex
+file.1=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b45430ff07c25b9a6b1a96c3a082a9b6a9446cbe/classes.dex
+file.0=/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3ecbcafa3772afef561ac5100787fc12a0fc068/classes.dex

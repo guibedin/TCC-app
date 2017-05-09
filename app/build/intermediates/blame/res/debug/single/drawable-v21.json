@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

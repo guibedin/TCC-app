@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/values-w360dp-v13/values-w360dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/guilherme/Desktop/TCC Real/Semestre 1/Backup Source Code/Android/TCC/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/guilherme/.android/build-cache/4bd9f0a7e502681fadd5b31e377a2410d8e9f6f5/output/res/color/abc_search_url_text.xml"
+    }
+]
